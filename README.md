@@ -1,3 +1,1 @@
-# t3roi.github.io
-
-forked from p3t
+# tronfomo.net
